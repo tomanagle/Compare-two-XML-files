@@ -1,0 +1,33 @@
+<Products>
+  <Product>
+    <Id>2209</Id>
+    <Sku>05-128BLK/WH-BCD</Sku>
+    <Barcode>4890888123702</Barcode>
+    <Name>Old product</Name>
+    <Updated>2014-10-21T09:38:28+11:00</Updated>
+  </Product>
+  
+  <Product>
+    <Id>15329</Id>
+    <Sku>1003025</Sku>
+    <Barcode>051021030255</Barcode>
+    <Name>new product</Name>
+    <Updated>2015-03-12T12:41:54+11:00</Updated>
+  </Product>
+  
+  <Product>
+    <Id>123423422434</Id>
+    <Sku>05-128BLK/WH-BCD</Sku>
+    <Barcode>4890888123702</Barcode>
+    <Name>This product will be new in stock</Name>
+    <Updated>2014-10-21T09:38:28+11:00</Updated>
+  </Product>
+  
+  <Product>
+    <Id>123442343</Id>
+    <Sku>100333234233025</Sku>
+    <Barcode>051021030255</Barcode>
+    <Name>This product will also be new in stock</Name>
+    <Updated>2015-03-12T12:41:54+11:00</Updated>
+  </Product>
+</Products>

@@ -10,3 +10,4 @@ Loops through the old XML file and checks each product ID to see if it exists in
 
 Loops through the new XML file and check each product ID to see if it exists in the array of old product IDs. If it doesn't exist the product must be new in stock, or back in stock. 
 
+For a full guide on this script visit: https://www.techcress.com/compare-two-xml-files-and-output-the-difference-with-php/
